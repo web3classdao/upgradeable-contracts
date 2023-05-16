@@ -1,3 +1,4 @@
+```
 // install hardhat
 npm install --save-dev hardhat
 npx hardhat
@@ -23,5 +24,5 @@ npx hardhat verify --network sepolia 0x8E6F7b6efffb21aA320909E90d5613ac7fe796F4
 npx hardhat run --network sepolia .\scripts\upgrade_box_v2.js
 // verify the BoxV2 code to etherscan
 npx hardhat verify --network sepolia 0x296eDded27E9c081762a1627DDDEb999F09cD18e
-
+```
 
